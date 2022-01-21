@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SeleniumCsharp\\SeleniumCsharp\\SeleniumCsharp.csproj": {}
+    "D:\\test-demo\\test\\SeleniumCsharp\\SeleniumCsharp.csproj": {}
   },
   "projects": {
-    "D:\\SeleniumCsharp\\SeleniumCsharp\\SeleniumCsharp.csproj": {
+    "D:\\test-demo\\test\\SeleniumCsharp\\SeleniumCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SeleniumCsharp\\SeleniumCsharp\\SeleniumCsharp.csproj",
+        "projectUniqueName": "D:\\test-demo\\test\\SeleniumCsharp\\SeleniumCsharp.csproj",
         "projectName": "SeleniumCsharp",
-        "projectPath": "D:\\SeleniumCsharp\\SeleniumCsharp\\SeleniumCsharp.csproj",
+        "projectPath": "D:\\test-demo\\test\\SeleniumCsharp\\SeleniumCsharp.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\SeleniumCsharp\\SeleniumCsharp\\obj\\",
+        "outputPath": "D:\\test-demo\\test\\SeleniumCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
