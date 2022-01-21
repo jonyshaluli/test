@@ -9,7 +9,7 @@ namespace SeleniumCsharp
     {
         IWebDriver driver;
         [OneTimeSetUp]
-        public void Setup()
+        public void Setup_2()
         {
             string path = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName;
 #pragma warning disable CS1009 // Unrecognized escape sequence
@@ -26,7 +26,7 @@ namespace SeleniumCsharp
             Assert.IsTrue(driver.FindElement(By.Id("logo"))).Displayed;
         }
         [OneTimeTearDown]
-        public void TearDown()
+        public void TearDown_2()
         {
             driver.Quit();
         }
