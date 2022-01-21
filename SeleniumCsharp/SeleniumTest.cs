@@ -26,7 +26,7 @@ namespace SeleniumCsharp
             Assert.IsTrue(driver.FindElement(By.Id("logo"))).Displayed;
         }
         [OneTimeTearDown]
-        public void TearDown_2()
+        public void TearDown_3()
         {
             driver.Quit();
         }
